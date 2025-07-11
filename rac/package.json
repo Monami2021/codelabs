@@ -1,0 +1,9 @@
+{
+  "name": "rac",
+  "version": "1.0.0",
+  "description": "monami jerome apps for exercise",
+  "main": "index.js",
+  "author": "jerome",
+  "license": "MIT",
+  "private": true
+}
